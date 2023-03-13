@@ -1,10 +1,10 @@
 # LapTrinhWeb_CT428
 
-Lập trình Web - CT428 
+Lập trình Web: CT428 - 01 
 
 Đề tài: Giới thiệu các thành viên & đề tài Web sắp tới (Cửa hàng chuyên bán Goods Hàn - NHật)
 
-Thành viên: 
+Thành viên - NHÓM 7: 
 - Dương Trúc Mai
 - Huỳnh Thanh Ngân
 - Lê Ngọc Thảo
